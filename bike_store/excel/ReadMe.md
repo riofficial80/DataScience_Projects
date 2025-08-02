@@ -54,7 +54,7 @@ The data is structured relationally, requiring careful joining and aggregation t
 
 ## 🖼 Dashboard Preview
 
-![Bike Store Dashboard](bike_store_dashboard.png)
+![bike_store_dashboard.png](https://github.com/riofficial80/DataScience_Projects/blob/main/bike_store/excel/bike_store_dashboard.PNG)
 
 ---
 
