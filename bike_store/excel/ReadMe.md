@@ -60,7 +60,7 @@ The data is structured relationally, requiring careful joining and aggregation t
 
 ## 🚀 How to Use
 
-1. Download the Excel workbook: [BikeStore_Dashboard.xlsx]([BikeStore_Dashboard.xlsx](https://github.com/riofficial80/DataScience_Projects/blob/main/bike_store/excel/BikeStore_Dashboard.xlsx))
+1. Download the Excel workbook: [BikeStore_Dashboard.xlsx](https://github.com/riofficial80/DataScience_Projects/blob/main/bike_store/excel/BikeStore_Dashboard.xlsx)
 2. Open it in Excel 2016 or later (Power Query and Data Model supported versions recommended)
 3. Use slicers on the dashboard to filter by Store, Product Category and Time Period
 
