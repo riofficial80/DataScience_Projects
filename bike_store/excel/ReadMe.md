@@ -36,7 +36,7 @@ The Bike Store dataset contains relational data from multiple tables, including:
 - Brands (brand names)
 - Categories (category names)
 - Status (status of orders.)
-  <b>note: this table added to the dataset and there is no such table in kaggle source.</b>
+  <b>note: this table added to the dataset and there is no such table in [kaggle](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database) source.</b>
 
 
 The data is structured relationally, requiring careful joining and aggregation to produce meaningful insights.
