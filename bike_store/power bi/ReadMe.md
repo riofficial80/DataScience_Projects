@@ -58,13 +58,13 @@ The data is structured relationally, requiring careful relationship definitions 
 
 ## 🖼 Dashboard Preview
 
-![bike_store_powerbi_dashboard.png]([https://github.com/riofficial80/DataScience_Projects/blob/main/bike_store/powerbi/bike_store_powerbi_dashboard.PNG](https://github.com/riofficial80/DataScience_Projects/blob/main/bike_store/power%20bi/bike_store_powerbi_dashboard.PNG))
+![bike_store_powerbi_dashboard.png](https://github.com/riofficial80/DataScience_Projects/blob/main/bike_store/power%20bi/bike_store_powerbi_dashboard.PNG)
 
 ---
 
 ## 🚀 How to Use
 
-1. Download the Power BI file: [BikeStore_Dashboard.pbix](blob:https://github.com/32aee461-e524-463c-8681-2230030922f6)  
+1. Download the Power BI file: [BikeStore_Dashboard.pbix](https://github.com/riofficial80/DataScience_Projects/blob/main/bike_store/power%20bi/BikeStore_Dashboard.pbix) 
 2. Open it in **Power BI Desktop (version 2.XX or later recommended)**  
 3. Use slicers and filters to explore data by Store, Product Category, Sales Period, and more  
 4. Interact with visuals for detailed insights and drill-down analysis  
