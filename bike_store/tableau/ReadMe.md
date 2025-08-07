@@ -64,7 +64,7 @@ The data requires appropriate joins and blending to produce meaningful insights.
 
 ## 🚀 How to Use
 
-1. Download the Tableau workbook: [BikeStore_Dashboard.twbx](https://github.com/riofficial80/DataScience_Projects/blob/main/bike_store/tableau/BikeStore_Dashboard.twbx)  
+1. Download the Tableau workbook: [BikeStore_Dashboard.twbx](https://github.com/riofficial80/DataScience_Projects/blob/main/bike_store/tableau/BikeStore_Dashboard.twb)  
 2. Open it in **Tableau Desktop (version 2021.1 or later recommended)**  
 3. Use filters on the dashboard to explore data by Store, Product Category, Sales Period, and more  
 4. Interact with charts and dashboard actions for deeper insights  
